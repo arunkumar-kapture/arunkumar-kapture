@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm <mark color='cyan'>Arun Kumar</mark></h1>
-<h3 align="center">ML Engineer Intern @KaptureCX | Passionate About AI and Data Science</h3>
+<h3 align="center">Passionate About AI and Data Science</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arunkumar-kapture" alt="arunkumar-kapture" /></a> </p>
 

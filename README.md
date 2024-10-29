@@ -2,15 +2,6 @@
 <h3 align="center">Passionate About AI and Data Science</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arunkumar-kapture" alt="arunkumar-kapture" /></a> </p>
-
-- 🔭 I’m currently working on **AI**
-
-- 🌱 I’m currently learning **Generative AI**
-
-- 👯 I’m looking to collaborate on **AI and Data Science**
-
-- 💬 Ask me about **AI**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
